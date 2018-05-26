@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160110872468",
+    "firebase_url": "https://dreampredictors-a9204.firebaseio.com",
+    "project_id": "dreampredictors-a9204",
+    "storage_bucket": "dreampredictors-a9204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160110872468:android:4498b35b203da8e9",
+        "android_client_info": {
+          "package_name": "com.company.batman.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160110872468-f94bgn4g79canskj436vd2ps37g1b8kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.batman.firebasetest",
+            "certificate_hash": "66bb6b1dda7d6ce936ed03ac4771ef59289bb40f"
+          }
+        },
+        {
+          "client_id": "160110872468-6h14tk1plel6kl23hbbg5arm092ljhr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsA5IhRoEavODOseRomPUj1uYRnnRTfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160110872468-6h14tk1plel6kl23hbbg5arm092ljhr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
